@@ -1,0 +1,13 @@
+.col{
+    border: solid 1px rgb(223, 223, 221);
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background: white;
+}
+
+#timesUp{
+    margin-bottom: 0%;
+    color: rgb(166, 167, 167);
+    display:none;
+}
